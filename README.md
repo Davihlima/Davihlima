@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 - @davihlimadev on Instagram
 - Davi Silva Lima on LinkedIn
+- davihlimadev@gmail.com
 
 <!---
 Davihlima/Davihlima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
